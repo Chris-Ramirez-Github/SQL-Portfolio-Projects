@@ -1,7 +1,9 @@
 # SQL-Portfolio-Projects
 Included in this repository is an example of my data analysis work utilizing SQL. The work showcases my experience in querying with 
-Querying, Aggregatation, Joins
+Querying, Aggregatation, Joins.
+
 The tools utilized were Microsoft SQL Server (SSMS), SQL, Python, and Jupyter Notebook.
+
 (Note: I am actively working on improving my proficiency in subquery sets, CTEs, Functions, and DML within SQL)
 
 Project Name  | Description   |  Topic
