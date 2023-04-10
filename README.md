@@ -4,7 +4,7 @@ Querying, Aggregatation, Joins.
 
 The tools utilized were Microsoft SQL Server (SSMS), SQL, Python, and Jupyter Notebook.
 
-(Note: I am actively working on improving my proficiency in subquery sets, CTEs, Functions, and DML within SQL)
+(Note: I am actively working on improving my proficiency in CTEs, Functions, and DML within SQL)
 
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
