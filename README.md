@@ -8,6 +8,6 @@ The tools utilized were Microsoft SQL Server (SSMS), SQL, Python, and Jupyter No
 
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
-[TSQL_Class](https://github.com/Chris-Ramirez-Github/SQL-Portfolio-Projects/tree/main/TSQL_Class)  | Wrote SQL queries to answer interesting questions about data from TSQL_Class database | Querying, Aggregatation, Joins
-[AdentureWorks2012](https://github.com/Chris-Ramirez-Github/SQL-Portfolio-Projects/tree/main/AdventureWorks2012)  | Explored data from AdventureWorks database | Querying, Aggregatation, Joins
-[AdentureWorksDW2012](https://github.com/Chris-Ramirez-Github/SQL-Portfolio-Projects/tree/main/AdventureWorksDW2012)  | Explored data from AdbentureWorksDW | Querying, Aggregatation, Joins 
+[TSQL_Class](https://github.com/Chris-Ramirez-Github/SQL-Portfolio-Projects/tree/main/TSQL_Class)  | Wrote SQL queries to answer interesting questions about data from TSQL_Class database | Querying, Aggregatation, Joins, Subquery Sets
+[AdentureWorks2012](https://github.com/Chris-Ramirez-Github/SQL-Portfolio-Projects/tree/main/AdventureWorks2012)  | Explored data from AdventureWorks database | Querying, Aggregatation, Joins, Subquery Sets
+[AdentureWorksDW2012](https://github.com/Chris-Ramirez-Github/SQL-Portfolio-Projects/tree/main/AdventureWorksDW2012)  | Explored data from AdbentureWorksDW | Querying, Aggregatation, Joins, Subquery sSts
